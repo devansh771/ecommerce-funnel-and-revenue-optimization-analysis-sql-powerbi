@@ -68,10 +68,5 @@ The dataset contains 30 days of e-commerce user interaction data including:
 
 ---
 
-## Dashboard Preview
-![Dashboard Preview](E-Commerce%20Sales%20Funnel%20%26%20Conversion%20Rate%20Optimization%20(CRO)%20Analysis_Dashboard(3).png)
-
----
-
 ## Dataset Source
 [Google Drive Dataset Link](https://drive.google.com/drive/folders/1fBrE4euyfsTJLAQ5CmIVUGQWALlFQfWO)
